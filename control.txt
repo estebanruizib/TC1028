@@ -1,3 +1,2 @@
-1
-0 score jugador 1
-0 score jugador 2
+1 0 0
+2 5 0
